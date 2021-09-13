@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZenIvrax
+- 🌱 I’m currently learning about Manual QA.
+- 💞️ I’m looking for an opportunity to gain QA experience.
+- 📫 How to reach me ...
